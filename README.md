@@ -16,7 +16,7 @@ I'm **Pruthviraj Motade**, a Computer Engineering student at **VIT, Pune**, with
 - 📝 Co-inventor on a granted patent + published **3 research papers** in IEEE Xplore
 - 💬 Ask me about Python, React, Node.js, LLMs/RAG, or data pipelines
 - 📫 Reach me at **[pruthvimotade@gmail.com](mailto:pruthvimotade@gmail.com)**
-- ⚡ Fun fact: I've solved **200+ DSA problems** across LeetCode, GFG, and HackerRank
+- ⚡ Fun fact: I've solved **250+ DSA problems** across LeetCode, GFG, and HackerRank
 
 ---
 
