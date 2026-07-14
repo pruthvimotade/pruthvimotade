@@ -193,50 +193,7 @@ class Pruthviraj:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## `05.` &nbsp;contribution snake 🐍
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/pruthvimotade/pruthvimotade/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<details>
-<summary>⚙️ <b>one-time setup — click to expand</b></summary>
-
-<br/>
-
-This animates a snake eating your real contribution graph, updated automatically every 6 hours. To enable it:
-
-1. Create the repo `pruthvimotade/pruthvimotade` if it doesn't exist (this file goes in there as `README.md`).
-2. Add this file at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches: [ main ]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pruthvimotade
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Push it, run the workflow once manually (`Actions` tab → `Run workflow`), and the snake above will start rendering your real graph.
 
 </details>
 
