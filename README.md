@@ -1,147 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,100:8E2DE2&height=220&section=header&text=Pruthviraj%20Motade&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%2B%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2EA3F2&height=260&section=header&text=PRUTHVIRAJ%20MOTADE&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20AI-powered%20%2F%20full-stack%20products%20that%20solve%20real%20problems&descAlignY=52&descAlign=50&descColor=8ecbff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+VIT+Pune;Building+AI-powered%2C+data-driven+products;Turning+messy+real-world+problems+into+clean+code;National+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=5CC6FF&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+role%3A+%22CE+Student+%40+VIT+Pune%22+%7D%3B;building+CureConnect+%F0%9F%8F%A5+and+AcadMe+%F0%9F%8E%93;national+hackathon+winner+%F0%9F%8F%86+techathon+2.0;patent+co-inventor+%C2%B7+3x+published+IEEE+author+%F0%9F%93%9D;250%2B+DSA+problems+solved+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=pruthvimotade&color=2EA3F2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/pruthvimotade?style=for-the-badge&color=8E2DE2&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=0F2027&label=PROFILE%20VIEWS&query=%24.count&url=https://api.countapi.xyz/hit/pruthvimotade/readme&style=for-the-badge&logo=googleanalytics&logoColor=5CC6FF&labelColor=0F2027" onerror="this.style.display='none'"/>
+<img src="https://komarev.com/ghpvc/?username=pruthvimotade&color=0F2027&style=for-the-badge&label=VISITORS" alt="Profile views" />
+<a href="https://github.com/pruthvimotade?tab=followers"><img src="https://img.shields.io/github/followers/pruthvimotade?style=for-the-badge&color=0F2027&labelColor=0F2027&logo=github" /></a>
+<a href="https://www.linkedin.com/in/pruthvimotade/"><img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=5CC6FF&labelColor=0F2027" /></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+## `01.` &nbsp;whoami
 
-```yaml
-name: Pruthviraj Motade
-role: Computer Engineering Student @ VIT, Pune
-focus: [Data Analytics, AI/ML, Full-Stack Engineering]
-philosophy: "Turn messy, real-world problems into clean, data-driven products"
-currently_building:
-  - CureConnect: AI-powered, FHIR-compliant healthcare platform
-  - AcadMe: AI-driven college & course recommendation engine
-achievements:
-  - 🏆 Techathon 2.0 — National Hackathon Winner (Best Solution, EdTech)
-  - 📜 Co-inventor on a granted patent
-  - 📝 3 published research papers (IEEE Xplore)
-  - ⚡ 250+ DSA problems solved (LeetCode · GFG · HackerRank)
-ask_me_about: [Python, React, Node.js, "LLMs / RAG", Data Pipelines]
-reach_me: pruthvimotade@gmail.com
+```py
+class Pruthviraj:
+    def __init__(self):
+        self.role        = "Computer Engineering Student @ VIT, Pune"
+        self.focus       = ["AI / ML", "Full-Stack Engineering", "Data Analytics"]
+        self.philosophy  = "Turn messy, real-world problems into clean, data-driven products"
+        self.building    = {
+            "CureConnect": "AI-powered, FHIR-compliant healthcare platform",
+            "AcadMe":      "AI-driven college & exam recommendation engine",
+        }
+        self.wins        = [
+            "🏆 Techathon 2.0 — National Hackathon Winner (Best Solution, EdTech)",
+            "📜 Co-inventor on a granted patent",
+            "📝 3 published research papers — IEEE Xplore",
+            "⚡ 250+ DSA problems solved — LeetCode · GFG · HackerRank",
+        ]
+        self.email       = "pruthvimotade@gmail.com"
+
+    def ask_me_about(self):
+        return ["Python", "React", "Node.js", "LLMs / RAG", "Data Pipelines"]
 ```
 
 <br/>
 
-## 🔗 Connect with Me
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pruthvimotade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pruthvimotade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/pruthvimotade" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
-<br/>
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nodejs,express,flask,fastapi,mongodb,mysql,postgres,html,css,tailwind,git,github,figma,postman,vercel,docker" />
-</p>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🤖 AI / ML**
-![LLMs](https://img.shields.io/badge/-LLMs-2EA3F2?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-2EA3F2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-2EA3F2?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-2EA3F2?style=flat-square)
-![OCR](https://img.shields.io/badge/-OCR-2EA3F2?style=flat-square)
-![LightGBM](https://img.shields.io/badge/-LightGBM-2EA3F2?style=flat-square)
-![Recommendation Systems](https://img.shields.io/badge/-Recommendation%20Systems-2EA3F2?style=flat-square)
-
-</td>
-<td valign="top" width="50%">
-
-**🔐 Security & Auth**
-![JWT](https://img.shields.io/badge/-JWT%20Auth-8E2DE2?style=flat-square)
-![RBAC](https://img.shields.io/badge/-RBAC-8E2DE2?style=flat-square)
-![OAuth2](https://img.shields.io/badge/-OAuth2-8E2DE2?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🏥 [CureConnect](#)
-AI-powered, FHIR-compliant unified EHR platform with an insurance automation engine (**CureClaim**) and a Gemini-AI + LightGBM health assistant trained on 5,000+ records.
-
-`MERN` `WebRTC` `Gemini AI` `LightGBM` `OCR` `FHIR`
-
-</td>
-<td width="33%" valign="top">
-
-### 🎓 [AcadMe](#)
-Multi-exam ranking engine across 6 national exams (JEE, MHT-CET, BITSAT, NEET, CAT, LAW) with a Gemini AI decision-support chatbot.
-
-`React Native` `Express.js` `Gemini AI`
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 [Reddit Sentiment & Tone Analysis](#)
-Scraped & cleaned 10,000+ Reddit comments, ran sentiment/tone classification, and auto-generated Excel dashboards.
-
-`Python` `NLTK` `TextBlob` `Pandas` `Matplotlib`
-
-</td>
-</tr>
-</table>
-
-> 💡 Replace the `#` links above with the actual repo URLs once you pin them.
-
-<br/>
-
-## 📊 GitHub Stats
+## `02.` &nbsp;stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pruthvimotade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvimotade&layout=compact&theme=tokyonight&hide_border=true" />
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-0F2027?style=for-the-badge&logo=openjdk&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=5CC6FF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvimotade&theme=tokyonight&hide_border=true" />
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/React_Native-0F2027?style=for-the-badge&logo=react&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Tailwind-0F2027?style=for-the-badge&logo=tailwindcss&logoColor=5CC6FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvimotade&theme=tokyo-night&hide_border=true" width="98%"/>
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=nodedotjs&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Express-0F2027?style=for-the-badge&logo=express&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Flask-0F2027?style=for-the-badge&logo=flask&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/FastAPI-0F2027?style=for-the-badge&logo=fastapi&logoColor=5CC6FF"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pruthvimotade&theme=tokyonight&no-frame=true&row=1&column=6" />
+**Data & Infra**
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F2027?style=for-the-badge&logo=postgresql&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/MySQL-0F2027?style=for-the-badge&logo=mysql&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Docker-0F2027?style=for-the-badge&logo=docker&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=5CC6FF"/>
+<img src="https://img.shields.io/badge/Vercel-0F2027?style=for-the-badge&logo=vercel&logoColor=5CC6FF"/>
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/LLMs-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recommendation_Systems-2C5364?style=for-the-badge"/>
+
+**Security**
+<br/>
+<img src="https://img.shields.io/badge/JWT-2C5364?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth2-2C5364?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## `03.` &nbsp;things I've built
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🏥 CureConnect</h3>
+
+**AI-powered, FHIR-compliant unified EHR platform** connecting patients, doctors, hospitals, and insurers under one roof.
+
+- 🤖 Gemini-AI + LightGBM health assistant trained on 5,000+ patient records
+- 💳 **CureClaim** — automated insurance claims engine
+- 📹 Built-in WebRTC video consultations
+- 🧾 OCR pipeline for digitizing medical records
+
+`MERN` `WebRTC` `Gemini AI` `LightGBM` `OCR` `FHIR`
+
+</td>
+<td width="50%" valign="top">
+<h3>🎓 AcadMe</h3>
+
+**AI-driven college & course recommendation engine** spanning 6 major national entrance exams.
+
+- 📊 Ranking engine across JEE, MHT-CET, BITSAT, NEET, CAT, and LAW
+- 💬 Gemini AI chatbot for personalized decision support
+- 📱 Cross-platform mobile-first experience
+
+`React Native` `Express.js` `Gemini AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 Reddit Sentiment & Tone Analysis</h3>
+
+**NLP pipeline analyzing 10,000+ scraped Reddit comments** for public-sentiment research.
+
+- 🕸️ Custom scraper + data-cleaning pipeline
+- 🧠 Sentiment & tone classification (NLTK, TextBlob)
+- 📈 Auto-generated Excel dashboards for reporting
+
+`Python` `NLTK` `TextBlob` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+<h3>🏆 Techathon 2.0 — Winning Project</h3>
+
+**Best Solution award, EdTech domain**, built under a 24-hour national hackathon deadline.
+
+- ⚡ Rapid prototyping from problem statement to demo
+- 🥇 Judged best-in-domain against national competition
+- 🧩 Foundation for what later became AcadMe
+
+`Full-Stack` `Rapid Prototyping` `AI Integration`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## `04.` &nbsp;github, by the numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pruthvimotade&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=5CC6FF&icon_color=5CC6FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvimotade&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=5CC6FF&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvimotade&theme=highcontrast&hide_border=true&background=0F2027&ring=5CC6FF&fire=5CC6FF&currStreakLabel=5CC6FF"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvimotade&bg_color=0F2027&color=5CC6FF&line=5CC6FF&point=ffffff&hide_border=true&area=true" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pruthvimotade&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+## `05.` &nbsp;contribution snake 🐍
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/pruthvimotade/pruthvimotade/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚙️ Powered by [platane/snk](https://github.com/Platane/snk) — add the companion GitHub Action to your `pruthvimotade/pruthvimotade` repo (workflow snippet below) to auto-generate this animation from your real contribution graph.
-
 <details>
-<summary>📄 <b>snake.yml workflow (click to expand)</b></summary>
+<summary>⚙️ <b>one-time setup — click to expand</b></summary>
+
+<br/>
+
+This animates a snake eating your real contribution graph, updated automatically every 6 hours. To enable it:
+
+1. Create the repo `pruthvimotade/pruthvimotade` if it doesn't exist (this file goes in there as `README.md`).
+2. Add this file at `.github/workflows/snake.yml`:
 
 ```yaml
 name: generate snake animation
@@ -169,14 +235,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+3. Push it, run the workflow once manually (`Actions` tab → `Run workflow`), and the snake above will start rendering your real graph.
+
 </details>
 
 <br/>
 
 <div align="center">
 
-😄 **Pronouns:** he/him &nbsp;|&nbsp; 🎓 **B.Tech Computer Engineering, VIT Pune (2023–2027)**
+😄 **he/him** &nbsp;·&nbsp; 🎓 **B.Tech Computer Engineering, VIT Pune (2023–2027)** &nbsp;·&nbsp; 📫 **pruthvimotade@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2EA3F2&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,50:2C5364,100:0F2027&height=140&section=footer" width="100%"/>
 
 </div>
